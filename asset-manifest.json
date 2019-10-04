@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hooks-use-reducer-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/hooks-use-reducer-demo/static/js/main.0ac37057.chunk.js",
+    "main.js.map": "/hooks-use-reducer-demo/static/js/main.0ac37057.chunk.js.map",
+    "runtime-main.js": "/hooks-use-reducer-demo/static/js/runtime-main.305a8c2a.js",
+    "runtime-main.js.map": "/hooks-use-reducer-demo/static/js/runtime-main.305a8c2a.js.map",
+    "static/js/2.956c2ce5.chunk.js": "/hooks-use-reducer-demo/static/js/2.956c2ce5.chunk.js",
+    "static/js/2.956c2ce5.chunk.js.map": "/hooks-use-reducer-demo/static/js/2.956c2ce5.chunk.js.map",
+    "index.html": "/hooks-use-reducer-demo/index.html",
+    "precache-manifest.95dbc9b63c14db11693586b3f40c6a6a.js": "/hooks-use-reducer-demo/precache-manifest.95dbc9b63c14db11693586b3f40c6a6a.js",
+    "service-worker.js": "/hooks-use-reducer-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/hooks-use-reducer-demo/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305a8c2a.js",
+    "static/js/2.956c2ce5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0ac37057.chunk.js"
+  ]
+}
